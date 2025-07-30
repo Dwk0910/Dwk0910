@@ -46,11 +46,11 @@
 ### 📚 배우는 중
 
 - Java 고급 문법: `Generic`, `Annotation`, `Record`, `transient`, `volatile`
-- JavaFX
 - Java Network
 - logging: `log4j`, `logback`
 - Minecraft Plugin
 - Minecraft Forge Modding
+- Electron
 
 ---
 
