@@ -27,7 +27,7 @@
 ---
 
 <details>
-  <summary><b>🔨 최근 작업 목록</b></summary>
+  <summary><b>🔨 최근 작업</b> 목록</summary>
   <br/>
   
 | 프로젝트 | 설명 |
