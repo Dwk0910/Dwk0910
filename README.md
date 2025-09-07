@@ -32,6 +32,8 @@
   
 | 프로젝트 | 설명 |
 |----------|------|
+| 🕹️ LibGDX | 자바 게임 엔진 (라이브러리) 공부 중 |
+| <img src="https://i.postimg.cc/cHDtqCTX/icons8-94.png" width="20em"/> 커맨드 라인 툴 | 커맨드 라인에서 실행하는 자바 프로그램 (Java I/O 시스템 사용 및 homebrew/scoop을 통한 배포 |
 | 🧱 Spigot 플러그인 | 투표 시스템, 리소스팩 실시간 적용, 알림기능 등 |
 | 🧙 Forge 1.18.2 모드 | 커스텀 블록, 서버패킷 연습 |
 | ⚡ Electron | Electron + React + Spring의 이상한 조합으로 이것저것 실험하기 |
@@ -39,7 +41,7 @@
 | 🛠️ 백업 스크립트 | 리눅스 자동 백업 및 정리 스크립트 |
 | 🛜 Spring 백엔드 | AWS EC2 이용한 백엔드 서버 구축 + 프론트엔드 연계 |
 | 🌐 React | React.js + CSS 활용한 웹사이트 구축 |
-|  <img src="https://builditapp.com/wp-content/uploads/2022/05/Grass-Block-1.svg" width="20em"/> 마인크래프트 서버 | Java 기반인 마인크래프트 서버 구축 및 운영 |
+| <img src="https://builditapp.com/wp-content/uploads/2022/05/Grass-Block-1.svg" width="20em"/> 마인크래프트 서버 | Java 기반인 마인크래프트 서버 구축 및 운영 |
 </details>
 
 ---
