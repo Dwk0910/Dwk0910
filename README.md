@@ -32,8 +32,9 @@
   
 | 프로젝트 | 설명 |
 |----------|------|
+| 🚌 정보성 웹 애플리케이션 | 정부 제공 API를 활용하여 버스 도착 안내 시스템 제작 및 모바일 UI 디자인 |
 | 🕹️ LibGDX | 자바 게임 엔진 (라이브러리) 공부 중 |
-| <img src="https://i.postimg.cc/cHDtqCTX/icons8-94.png" width="20em"/> 커맨드 라인 툴 | 커맨드 라인에서 실행하는 자바 프로그램 (Java I/O 시스템 사용 및 homebrew/scoop을 통한 배포 |
+| <img src="https://i.postimg.cc/cHDtqCTX/icons8-94.png" width="20em"/> 커맨드 라인 툴 | 커맨드 라인에서 실행하는 자바 프로그램 / Java I/O 시스템 사용 및 homebrew/scoop을 통한 배포 |
 | 🧱 Spigot 플러그인 | 투표 시스템, 리소스팩 실시간 적용, 알림기능 등 |
 | 🧙 Forge 1.18.2 모드 | 커스텀 블록, 서버패킷 연습 |
 | ⚡ Electron | Electron + React + Spring의 이상한 조합으로 이것저것 실험하기 |
@@ -51,6 +52,7 @@
 - Java 고급 문법: `Generic`, `Annotation`, `Record`, `transient`, `volatile`
 - Java Network
 - logging: `log4j`, `logback`
+- React + TypeScript
 - Minecraft Plugin
 - Minecraft Forge Modding
 - Electron
